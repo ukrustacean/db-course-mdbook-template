@@ -1,3 +1,28 @@
-# Реалізація доступу до бази даних
+# Структура
 
-В цьому розділі розміщені програмні коди для доступу до бази даних.
+/src
+
+  /scripts
+  
+    /Main.java
+
+    /DBConnection.java
+    
+    /UserDAO.java
+    
+    /UserDAOImpl.java
+    
+    /README.md           // структура
+    
+  /sql
+  
+    /db.sql
+    
+/test
+
+    /DAODemo.java
+
+/docs
+
+    /README.md
+  
